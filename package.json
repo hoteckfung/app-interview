@@ -1,0 +1,14 @@
+{
+  "name": "table-display",
+  "version": "1.0.0",
+  "description": "Web application to display tables and perform calculations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "",
+  "license": "ISC"
+} 
